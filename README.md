@@ -1,6 +1,6 @@
 # Learning-Day-8
 
-1. Core JavaScript
+1. ✅ Core JavaScript
    - https://www.youtube.com/watch?v=kM_n8Kp0sJM&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=3&pp=iAQB
    - https://www.youtube.com/watch?v=PbLVAwZMyZI&list=PLQOMi2yb4hF0xc__bNw-S9WIwK9fWdvgM&index=1&pp=iAQB
   
